@@ -25,4 +25,4 @@ Following commands are supported:
 ```/exit``` : exit the program.
 
 #
-This program is based on the HyperMetro project on [Jet Brains Academy](https://hyperskill.org).
+This program is based on the HyperMetro project on [JetBrains Academy](https://hyperskill.org).
